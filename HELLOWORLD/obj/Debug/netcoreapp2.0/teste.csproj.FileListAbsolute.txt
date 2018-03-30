@@ -1,0 +1,11 @@
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\bin\Debug\netcoreapp2.0\teste.deps.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\bin\Debug\netcoreapp2.0\teste.runtimeconfig.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\bin\Debug\netcoreapp2.0\teste.runtimeconfig.dev.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\bin\Debug\netcoreapp2.0\teste.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\bin\Debug\netcoreapp2.0\teste.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\obj\Debug\netcoreapp2.0\teste.csprojResolveAssemblyReference.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\obj\Debug\netcoreapp2.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\obj\Debug\netcoreapp2.0\teste.AssemblyInfoInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\obj\Debug\netcoreapp2.0\teste.AssemblyInfo.cs
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\obj\Debug\netcoreapp2.0\teste.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\teste\obj\Debug\netcoreapp2.0\teste.pdb

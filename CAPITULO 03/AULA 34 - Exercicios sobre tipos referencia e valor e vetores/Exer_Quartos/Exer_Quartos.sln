@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_Quartos", "Exer_Quartos\Exer_Quartos.csproj", "{C20C3473-8657-47FF-8852-AA50B9DA888A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20C3473-8657-47FF-8852-AA50B9DA888A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20C3473-8657-47FF-8852-AA50B9DA888A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20C3473-8657-47FF-8852-AA50B9DA888A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20C3473-8657-47FF-8852-AA50B9DA888A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01D20EE3-B2B3-4258-9DFE-2DB37F561C93}
+	EndGlobalSection
+EndGlobal

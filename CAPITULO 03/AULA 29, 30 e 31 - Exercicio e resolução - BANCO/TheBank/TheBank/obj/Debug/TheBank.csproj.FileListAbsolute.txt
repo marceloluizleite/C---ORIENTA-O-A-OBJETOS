@@ -1,0 +1,7 @@
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 29 - Exercicio - BANCO\TheBank\TheBank\bin\Debug\TheBank.exe.config
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 29 - Exercicio - BANCO\TheBank\TheBank\bin\Debug\TheBank.exe
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 29 - Exercicio - BANCO\TheBank\TheBank\bin\Debug\TheBank.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 29 - Exercicio - BANCO\TheBank\TheBank\obj\Debug\TheBank.csprojResolveAssemblyReference.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 29 - Exercicio - BANCO\TheBank\TheBank\obj\Debug\TheBank.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 29 - Exercicio - BANCO\TheBank\TheBank\obj\Debug\TheBank.exe
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 29 - Exercicio - BANCO\TheBank\TheBank\obj\Debug\TheBank.pdb

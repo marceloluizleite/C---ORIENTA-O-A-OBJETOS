@@ -1,0 +1,11 @@
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\bin\Debug\netcoreapp2.0\Exercicio01.deps.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\bin\Debug\netcoreapp2.0\Exercicio01.runtimeconfig.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\bin\Debug\netcoreapp2.0\Exercicio01.runtimeconfig.dev.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\bin\Debug\netcoreapp2.0\Exercicio01.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\bin\Debug\netcoreapp2.0\Exercicio01.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\obj\Debug\netcoreapp2.0\Exercicio01.csprojResolveAssemblyReference.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\obj\Debug\netcoreapp2.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\obj\Debug\netcoreapp2.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\obj\Debug\netcoreapp2.0\Exercicio01.AssemblyInfo.cs
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\obj\Debug\netcoreapp2.0\Exercicio01.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio01\Exercicio01\obj\Debug\netcoreapp2.0\Exercicio01.pdb

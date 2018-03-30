@@ -1,0 +1,7 @@
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio03Refatorado\Exercicio03Refatorado\bin\Debug\Exercicio03Refatorado.exe.config
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio03Refatorado\Exercicio03Refatorado\bin\Debug\Exercicio03Refatorado.exe
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio03Refatorado\Exercicio03Refatorado\bin\Debug\Exercicio03Refatorado.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio03Refatorado\Exercicio03Refatorado\obj\Debug\Exercicio03Refatorado.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio03Refatorado\Exercicio03Refatorado\obj\Debug\Exercicio03Refatorado.exe
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio03Refatorado\Exercicio03Refatorado\obj\Debug\Exercicio03Refatorado.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 02\AULA 22 - Exercícios propostos\Exercicio03Refatorado\Exercicio03Refatorado\obj\Debug\Exercicio03Refatorado.csprojResolveAssemblyReference.cache

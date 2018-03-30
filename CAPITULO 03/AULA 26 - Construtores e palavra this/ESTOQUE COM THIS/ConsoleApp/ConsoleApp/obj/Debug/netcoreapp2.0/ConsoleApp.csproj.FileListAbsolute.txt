@@ -1,0 +1,33 @@
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\testeCore\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\ESTOQUE\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 26 - Construtores e palavra this\ESTOQUE COM THIS\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb

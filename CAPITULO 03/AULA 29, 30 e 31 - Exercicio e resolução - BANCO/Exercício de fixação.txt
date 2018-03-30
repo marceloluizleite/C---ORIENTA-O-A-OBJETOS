@@ -1,0 +1,9 @@
+EXERCÍCIO DE FIXAÇÃO 1
+
+Querido(a) estudante, vamos verificar se você compreendeu o conteúdo até aqui?
+
+Elaborei um pequeno exercício bem bacana para você aplicar nele as técnicas: construtores, palavra this, sobrecarga e encapsulamento. O enunciado está no PDF anexo abaixo.
+
+No vídeo seguinte eu vou apresentar e discutir uma solução do exercício para você fazer a correção.
+
+Boa sorte! Um grande abraço! Nelio.
