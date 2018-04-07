@@ -1,7 +1,0 @@
-C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 34 - Exercicios sobre tipos referencia e valor e vetores\Exer_Quartos\Exer_Quartos\bin\Debug\Exer_Quartos.exe.config
-C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 34 - Exercicios sobre tipos referencia e valor e vetores\Exer_Quartos\Exer_Quartos\bin\Debug\Exer_Quartos.exe
-C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 34 - Exercicios sobre tipos referencia e valor e vetores\Exer_Quartos\Exer_Quartos\bin\Debug\Exer_Quartos.pdb
-C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 34 - Exercicios sobre tipos referencia e valor e vetores\Exer_Quartos\Exer_Quartos\obj\Debug\Exer_Quartos.csprojResolveAssemblyReference.cache
-C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 34 - Exercicios sobre tipos referencia e valor e vetores\Exer_Quartos\Exer_Quartos\obj\Debug\Exer_Quartos.csproj.CoreCompileInputs.cache
-C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 34 - Exercicios sobre tipos referencia e valor e vetores\Exer_Quartos\Exer_Quartos\obj\Debug\Exer_Quartos.exe
-C:\Users\marcelo.leite\Documents\UDEMY\C# - ORIENTAÇÃO A OBJETOS\CAPITULO 03\AULA 34 - Exercicios sobre tipos referencia e valor e vetores\Exer_Quartos\Exer_Quartos\obj\Debug\Exer_Quartos.pdb
